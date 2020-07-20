@@ -1,7 +1,7 @@
 # loadshedding
 <ol>
-<li>   Get pdf from <https://www.nelsonmandelabay.gov.za/page/loadshedding></li>
-<li>   Drop pdf into <https://altoconvertpdftoexcel.com/></li>
+<li>   Get pdf from [https://www.nelsonmandelabay.gov.za/page/loadshedding]</li>
+<li>   Drop pdf into [https://altoconvertpdftoexcel.com/]</li>
 <li>   Choose convert from menu</li>
 <li>   Click on the "Download XLSX" next to the converted filename.  The file is downloaded to downloads.</li>
 <li>   Dubble click on the downloaded file to open in Excel</li>
