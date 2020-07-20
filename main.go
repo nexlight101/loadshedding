@@ -173,6 +173,26 @@ func dump(filename string, data []schedule) {
 }
 
 // save the schedule to disk
+func dumpArea(filename string, data []area) {
+	f, err := os.Create(filename)
+	if err != nil {
+		log.Fatalf("Cannot create area bin file!: %v\n", err)
+	}
+	defer f.Close()
+
+	bX, err := json.Marshal(data)
+
+	if err != nil {
+		log.Fatalf("Cannot marshal area json: %v\n", err)
+	}
+	n, err := f.Write(bX)
+	if err != nil {
+		log.Fatalf("Cannot write area json file!: %v\n", err)
+	}
+	fmt.Printf("%d lines writen to %s\n", n, filename)
+}
+
+// save the schedule to disk
 func dumpAreas(filename string, data []area) {
 	f, err := os.Create(filename)
 	if err != nil {
@@ -269,8 +289,8 @@ func testJSON(filename string) {
 }
 func main() {
 	// process the areas
-	// pArea := getArea(filename2)
-	// dump(filename6, pArea)
+	pArea := getArea(filename2)
+	dumpArea(filename6, pArea)
 
 	// read the group data
 	groupXX := getGroup(filename3)
