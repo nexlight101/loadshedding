@@ -131,6 +131,7 @@ func writeF(schedules []schedule) {
 		log.Fatalf("Cannot open txt file! with error: %\n", err)
 	}
 	defer f.Close()
+	fmt.Fprintf(f, "length of schedules: %d\n", len(schedules))
 	// Loop through the records
 	for i, schedule := range schedules {
 		// Print headings
@@ -232,11 +233,10 @@ func buildSchedule(d time.Time, groups [][]group) []schedule {
 	sCounter := 0
 	// Day counter
 	dCounter := 0
-	// loop through all 19 cycles
-	for i := 0; i < 4; i++ {
+	// loop through all 19 days for all 6 cycles
+	for i := 0; i < 6; i++ { // loop through stages
 		// loop through all grougs
 		for _, gStage := range groups {
-			// build the schedule
 			// check the stage
 			stage := ""
 			switch sCounter {
@@ -249,6 +249,7 @@ func buildSchedule(d time.Time, groups [][]group) []schedule {
 			case 3:
 				stage = "Stage 4"
 			}
+			// build the schedule
 			sched.Stage = stage
 
 			sched.Group = gStage
