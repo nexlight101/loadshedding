@@ -1,4 +1,4 @@
-Date: Wednesday, 24 June 2020	Stage 1
+Date: Thursday, 20 August 2020	Stage 1
 record: 0	Group 1: 
 Time:
 00:00-02:30 
@@ -75,7 +75,7 @@ record: 0	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Wednesday, 24 June 2020	Stage 2
+Date: Thursday, 20 August 2020	Stage 2
 record: 1	Group 1: 
 Time:
 00:00-02:30 
@@ -159,7 +159,7 @@ record: 1	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Wednesday, 24 June 2020	Stage 3
+Date: Thursday, 20 August 2020	Stage 3
 record: 2	Group 1: 
 Time:
 00:00-02:30
@@ -253,7 +253,7 @@ record: 2	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Wednesday, 24 June 2020	Stage 4
+Date: Thursday, 20 August 2020	Stage 4
 record: 3	Group 1: 
 Time:
 00:00-02:30
@@ -359,7 +359,7 @@ Time:
 16:00-18:30
 06:00-08:30 
 ------------------------------------------------------------
-Date: Thursday, 25 June 2020	Stage 1
+Date: Friday, 21 August 2020	Stage 1
 record: 4	Group 1: 
 Time:
 14:00-16:30 
@@ -436,7 +436,7 @@ record: 4	Group 19:
 Time:
 12:00-14:30 
 ------------------------------------------------------------
-Date: Thursday, 25 June 2020	Stage 2
+Date: Friday, 21 August 2020	Stage 2
 record: 5	Group 1: 
 Time:
 04:00-06:30
@@ -520,7 +520,7 @@ Time:
 02:00-04:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Thursday, 25 June 2020	Stage 3
+Date: Friday, 21 August 2020	Stage 3
 record: 6	Group 1: 
 Time:
 04:00-06:30
@@ -614,7 +614,7 @@ Time:
 02:00-04:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Thursday, 25 June 2020	Stage 4
+Date: Friday, 21 August 2020	Stage 4
 record: 7	Group 1: 
 Time:
 04:00-06:30
@@ -720,7 +720,7 @@ Time:
 12:00-14:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Friday, 26 June 2020	Stage 1
+Date: Saturday, 22 August 2020	Stage 1
 record: 8	Group 1: 
 Time:
  
@@ -797,7 +797,7 @@ record: 8	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Friday, 26 June 2020	Stage 2
+Date: Saturday, 22 August 2020	Stage 2
 record: 9	Group 1: 
 Time:
 18:00-20:30 
@@ -881,7 +881,7 @@ record: 9	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Friday, 26 June 2020	Stage 3
+Date: Saturday, 22 August 2020	Stage 3
 record: 10	Group 1: 
 Time:
 08:00-10:30
@@ -975,7 +975,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Friday, 26 June 2020	Stage 4
+Date: Saturday, 22 August 2020	Stage 4
 record: 11	Group 1: 
 Time:
 08:00-10:30
@@ -1081,7 +1081,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Saturday, 27 June 2020	Stage 1
+Date: Sunday, 23 August 2020	Stage 1
 record: 12	Group 1: 
 Time:
 04:00-06:30 
@@ -1158,7 +1158,7 @@ record: 12	Group 19:
 Time:
 02:00-04:30 
 ------------------------------------------------------------
-Date: Saturday, 27 June 2020	Stage 2
+Date: Sunday, 23 August 2020	Stage 2
 record: 13	Group 1: 
 Time:
 04:00-06:30 
@@ -1242,7 +1242,7 @@ record: 13	Group 19:
 Time:
 02:00-04:30 
 ------------------------------------------------------------
-Date: Saturday, 27 June 2020	Stage 3
+Date: Sunday, 23 August 2020	Stage 3
 record: 14	Group 1: 
 Time:
 04:00-06:30
@@ -1336,7 +1336,7 @@ Time:
 02:00-04:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Saturday, 27 June 2020	Stage 4
+Date: Sunday, 23 August 2020	Stage 4
 record: 15	Group 1: 
 Time:
 04:00-06:30
@@ -1442,7 +1442,7 @@ Time:
 20:00-22:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Sunday, 28 June 2020	Stage 1
+Date: Monday, 24 August 2020	Stage 1
 record: 16	Group 1: 
 Time:
 18:00-20:30 
@@ -1519,7 +1519,7 @@ record: 16	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Sunday, 28 June 2020	Stage 2
+Date: Monday, 24 August 2020	Stage 2
 record: 17	Group 1: 
 Time:
 08:00-10:30
@@ -1603,7 +1603,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Sunday, 28 June 2020	Stage 3
+Date: Monday, 24 August 2020	Stage 3
 record: 18	Group 1: 
 Time:
 08:00-10:30
@@ -1697,7 +1697,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Sunday, 28 June 2020	Stage 4
+Date: Monday, 24 August 2020	Stage 4
 record: 19	Group 1: 
 Time:
 08:00-10:30
@@ -1803,7 +1803,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Monday, 29 June 2020	Stage 1
+Date: Tuesday, 25 August 2020	Stage 1
 record: 20	Group 1: 
 Time:
  
@@ -1880,7 +1880,7 @@ record: 20	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Monday, 29 June 2020	Stage 2
+Date: Tuesday, 25 August 2020	Stage 2
 record: 21	Group 1: 
 Time:
 22:00-00:30 
@@ -1964,7 +1964,7 @@ record: 21	Group 19:
 Time:
 20:00-22:30 
 ------------------------------------------------------------
-Date: Monday, 29 June 2020	Stage 3
+Date: Tuesday, 25 August 2020	Stage 3
 record: 22	Group 1: 
 Time:
 12:00-14:30
@@ -2058,7 +2058,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Monday, 29 June 2020	Stage 4
+Date: Tuesday, 25 August 2020	Stage 4
 record: 23	Group 1: 
 Time:
 12:00-14:30
@@ -2164,7 +2164,7 @@ Time:
 20:00-22:30
 00:00-02:30 
 ------------------------------------------------------------
-Date: Tuesday, 30 June 2020	Stage 1
+Date: Wednesday, 26 August 2020	Stage 1
 record: 24	Group 1: 
 Time:
 08:00-10:30 
@@ -2241,7 +2241,7 @@ record: 24	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Tuesday, 30 June 2020	Stage 2
+Date: Wednesday, 26 August 2020	Stage 2
 record: 25	Group 1: 
 Time:
 08:00-10:30 
@@ -2325,7 +2325,7 @@ record: 25	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Tuesday, 30 June 2020	Stage 3
+Date: Wednesday, 26 August 2020	Stage 3
 record: 26	Group 1: 
 Time:
 08:00-10:30 
@@ -2419,7 +2419,7 @@ record: 26	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Tuesday, 30 June 2020	Stage 4
+Date: Wednesday, 26 August 2020	Stage 4
 record: 27	Group 1: 
 Time:
 08:00-10:30
@@ -2525,7 +2525,7 @@ Time:
 06:00-08:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Wednesday, 1 July 2020	Stage 1
+Date: Thursday, 27 August 2020	Stage 1
 record: 28	Group 1: 
 Time:
 22:00-00:30 
@@ -2602,7 +2602,7 @@ record: 28	Group 19:
 Time:
 20:00-22:30 
 ------------------------------------------------------------
-Date: Wednesday, 1 July 2020	Stage 2
+Date: Thursday, 27 August 2020	Stage 2
 record: 29	Group 1: 
 Time:
 12:00-14:30
@@ -2686,7 +2686,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Wednesday, 1 July 2020	Stage 3
+Date: Thursday, 27 August 2020	Stage 3
 record: 30	Group 1: 
 Time:
 02:00-04:30
@@ -2780,7 +2780,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Wednesday, 1 July 2020	Stage 4
+Date: Thursday, 27 August 2020	Stage 4
 record: 31	Group 1: 
 Time:
 02:00-04:30
@@ -2886,7 +2886,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Thursday, 2 July 2020	Stage 1
+Date: Friday, 28 August 2020	Stage 1
 record: 32	Group 1: 
 Time:
  
@@ -2963,7 +2963,7 @@ record: 32	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Thursday, 2 July 2020	Stage 2
+Date: Friday, 28 August 2020	Stage 2
 record: 33	Group 1: 
 Time:
  
@@ -3047,7 +3047,7 @@ record: 33	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Thursday, 2 July 2020	Stage 3
+Date: Friday, 28 August 2020	Stage 3
 record: 34	Group 1: 
 Time:
 16:00-18:30 
@@ -3141,7 +3141,7 @@ record: 34	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Thursday, 2 July 2020	Stage 4
+Date: Friday, 28 August 2020	Stage 4
 record: 35	Group 1: 
 Time:
 16:00-18:30
@@ -3247,7 +3247,7 @@ Time:
 14:00-16:30
 04:00-06:30 
 ------------------------------------------------------------
-Date: Friday, 3 July 2020	Stage 1
+Date: Saturday, 29 August 2020	Stage 1
 record: 36	Group 1: 
 Time:
 12:00-14:30 
@@ -3324,7 +3324,7 @@ record: 36	Group 19:
 Time:
 10:00-12:30 
 ------------------------------------------------------------
-Date: Friday, 3 July 2020	Stage 2
+Date: Saturday, 29 August 2020	Stage 2
 record: 37	Group 1: 
 Time:
 02:00-04:30
@@ -3408,7 +3408,7 @@ Time:
 00:00-02:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Friday, 3 July 2020	Stage 3
+Date: Saturday, 29 August 2020	Stage 3
 record: 38	Group 1: 
 Time:
 02:00-04:30
@@ -3502,7 +3502,7 @@ Time:
 00:00-02:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Friday, 3 July 2020	Stage 4
+Date: Saturday, 29 August 2020	Stage 4
 record: 39	Group 1: 
 Time:
 02:00-04:30
@@ -3608,7 +3608,7 @@ Time:
 10:00-12:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Saturday, 4 July 2020	Stage 1
+Date: Sunday, 30 August 2020	Stage 1
 record: 40	Group 1: 
 Time:
  
@@ -3685,7 +3685,7 @@ record: 40	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Saturday, 4 July 2020	Stage 2
+Date: Sunday, 30 August 2020	Stage 2
 record: 41	Group 1: 
 Time:
 16:00-18:30 
@@ -3769,7 +3769,7 @@ record: 41	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Saturday, 4 July 2020	Stage 3
+Date: Sunday, 30 August 2020	Stage 3
 record: 42	Group 1: 
 Time:
 06:00-08:30
@@ -3863,7 +3863,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Saturday, 4 July 2020	Stage 4
+Date: Sunday, 30 August 2020	Stage 4
 record: 43	Group 1: 
 Time:
 06:00-08:30
@@ -3969,7 +3969,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Sunday, 5 July 2020	Stage 1
+Date: Monday, 31 August 2020	Stage 1
 record: 44	Group 1: 
 Time:
 02:00-04:30 
@@ -4046,7 +4046,7 @@ record: 44	Group 19:
 Time:
 00:00-02:30 
 ------------------------------------------------------------
-Date: Sunday, 5 July 2020	Stage 2
+Date: Monday, 31 August 2020	Stage 2
 record: 45	Group 1: 
 Time:
 02:00-04:30 
@@ -4130,7 +4130,7 @@ record: 45	Group 19:
 Time:
 00:00-02:30 
 ------------------------------------------------------------
-Date: Sunday, 5 July 2020	Stage 3
+Date: Monday, 31 August 2020	Stage 3
 record: 46	Group 1: 
 Time:
 02:00-04:30
@@ -4224,7 +4224,7 @@ Time:
 00:00-02:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Sunday, 5 July 2020	Stage 4
+Date: Monday, 31 August 2020	Stage 4
 record: 47	Group 1: 
 Time:
 02:00-04:30
@@ -4330,7 +4330,7 @@ Time:
 18:00-20:30
 08:00-10:30 
 ------------------------------------------------------------
-Date: Monday, 6 July 2020	Stage 1
+Date: Tuesday, 1 September 2020	Stage 1
 record: 48	Group 1: 
 Time:
 16:00-18:30 
@@ -4407,7 +4407,7 @@ record: 48	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Monday, 6 July 2020	Stage 2
+Date: Tuesday, 1 September 2020	Stage 2
 record: 49	Group 1: 
 Time:
 06:00-08:30
@@ -4491,7 +4491,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Monday, 6 July 2020	Stage 3
+Date: Tuesday, 1 September 2020	Stage 3
 record: 50	Group 1: 
 Time:
 06:00-08:30
@@ -4585,7 +4585,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Monday, 6 July 2020	Stage 4
+Date: Tuesday, 1 September 2020	Stage 4
 record: 51	Group 1: 
 Time:
 06:00-08:30
@@ -4691,7 +4691,7 @@ Time:
 14:00-16:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Tuesday, 7 July 2020	Stage 1
+Date: Wednesday, 2 September 2020	Stage 1
 record: 52	Group 1: 
 Time:
  
@@ -4768,7 +4768,7 @@ record: 52	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Tuesday, 7 July 2020	Stage 2
+Date: Wednesday, 2 September 2020	Stage 2
 record: 53	Group 1: 
 Time:
 20:00-22:30 
@@ -4852,7 +4852,7 @@ record: 53	Group 19:
 Time:
 18:00-20:30 
 ------------------------------------------------------------
-Date: Tuesday, 7 July 2020	Stage 3
+Date: Wednesday, 2 September 2020	Stage 3
 record: 54	Group 1: 
 Time:
 10:00-12:30
@@ -4946,7 +4946,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Tuesday, 7 July 2020	Stage 4
+Date: Wednesday, 2 September 2020	Stage 4
 record: 55	Group 1: 
 Time:
 10:00-12:30
@@ -5052,7 +5052,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Wednesday, 8 July 2020	Stage 1
+Date: Thursday, 3 September 2020	Stage 1
 record: 56	Group 1: 
 Time:
 06:00-08:30 
@@ -5129,7 +5129,7 @@ record: 56	Group 19:
 Time:
 04:00-06:30 
 ------------------------------------------------------------
-Date: Wednesday, 8 July 2020	Stage 2
+Date: Thursday, 3 September 2020	Stage 2
 record: 57	Group 1: 
 Time:
 06:00-08:30 
@@ -5213,7 +5213,7 @@ record: 57	Group 19:
 Time:
 04:00-06:30 
 ------------------------------------------------------------
-Date: Wednesday, 8 July 2020	Stage 3
+Date: Thursday, 3 September 2020	Stage 3
 record: 58	Group 1: 
 Time:
 06:00-08:30 
@@ -5307,7 +5307,7 @@ Time:
 04:00-06:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Wednesday, 8 July 2020	Stage 4
+Date: Thursday, 3 September 2020	Stage 4
 record: 59	Group 1: 
 Time:
 06:00-08:30
@@ -5413,7 +5413,7 @@ Time:
 22:00-00:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Thursday, 9 July 2020	Stage 1
+Date: Friday, 4 September 2020	Stage 1
 record: 60	Group 1: 
 Time:
 20:00-22:30 
@@ -5490,7 +5490,7 @@ record: 60	Group 19:
 Time:
 18:00-20:30 
 ------------------------------------------------------------
-Date: Thursday, 9 July 2020	Stage 2
+Date: Friday, 4 September 2020	Stage 2
 record: 61	Group 1: 
 Time:
 10:00-12:30
@@ -5574,7 +5574,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Thursday, 9 July 2020	Stage 3
+Date: Friday, 4 September 2020	Stage 3
 record: 62	Group 1: 
 Time:
 00:00-02:30
@@ -5668,7 +5668,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Thursday, 9 July 2020	Stage 4
+Date: Friday, 4 September 2020	Stage 4
 record: 63	Group 1: 
 Time:
 00:00-02:30
@@ -5774,7 +5774,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Friday, 10 July 2020	Stage 1
+Date: Saturday, 5 September 2020	Stage 1
 record: 64	Group 1: 
 Time:
  
@@ -5851,7 +5851,7 @@ record: 64	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Friday, 10 July 2020	Stage 2
+Date: Saturday, 5 September 2020	Stage 2
 record: 65	Group 1: 
 Time:
  
@@ -5935,7 +5935,7 @@ record: 65	Group 19:
 Time:
 22:00-00:30 
 ------------------------------------------------------------
-Date: Friday, 10 July 2020	Stage 3
+Date: Saturday, 5 September 2020	Stage 3
 record: 66	Group 1: 
 Time:
 14:00-16:30 
@@ -6029,7 +6029,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Friday, 10 July 2020	Stage 4
+Date: Saturday, 5 September 2020	Stage 4
 record: 67	Group 1: 
 Time:
 14:00-16:30
@@ -6135,7 +6135,7 @@ Time:
 22:00-00:30
 02:00-04:30 
 ------------------------------------------------------------
-Date: Saturday, 11 July 2020	Stage 1
+Date: Sunday, 6 September 2020	Stage 1
 record: 68	Group 1: 
 Time:
 10:00-12:30 
@@ -6212,7 +6212,7 @@ record: 68	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Saturday, 11 July 2020	Stage 2
+Date: Sunday, 6 September 2020	Stage 2
 record: 69	Group 1: 
 Time:
 00:00-02:30
@@ -6296,7 +6296,7 @@ record: 69	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Saturday, 11 July 2020	Stage 3
+Date: Sunday, 6 September 2020	Stage 3
 record: 70	Group 1: 
 Time:
 00:00-02:30
@@ -6390,7 +6390,7 @@ record: 70	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Saturday, 11 July 2020	Stage 4
+Date: Sunday, 6 September 2020	Stage 4
 record: 71	Group 1: 
 Time:
 00:00-02:30
@@ -6496,7 +6496,7 @@ Time:
 08:00-10:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Sunday, 12 July 2020	Stage 1
+Date: Monday, 7 September 2020	Stage 1
 record: 72	Group 1: 
 Time:
  
@@ -6573,7 +6573,7 @@ record: 72	Group 19:
 Time:
 22:00-00:30 
 ------------------------------------------------------------
-Date: Sunday, 12 July 2020	Stage 2
+Date: Monday, 7 September 2020	Stage 2
 record: 73	Group 1: 
 Time:
 14:00-16:30 
@@ -6657,7 +6657,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Sunday, 12 July 2020	Stage 3
+Date: Monday, 7 September 2020	Stage 3
 record: 74	Group 1: 
 Time:
 04:00-06:30
@@ -6751,7 +6751,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Sunday, 12 July 2020	Stage 4
+Date: Monday, 7 September 2020	Stage 4
 record: 75	Group 1: 
 Time:
 04:00-06:30
@@ -6857,7 +6857,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Monday, 13 July 2020	Stage 1
+Date: Tuesday, 8 September 2020	Stage 1
 record: 76	Group 1: 
 Time:
 00:00-02:30 
@@ -6934,7 +6934,7 @@ record: 76	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Monday, 13 July 2020	Stage 2
+Date: Tuesday, 8 September 2020	Stage 2
 record: 77	Group 1: 
 Time:
 00:00-02:30 
@@ -7018,7 +7018,7 @@ record: 77	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Monday, 13 July 2020	Stage 3
+Date: Tuesday, 8 September 2020	Stage 3
 record: 78	Group 1: 
 Time:
 00:00-02:30
@@ -7112,7 +7112,7 @@ record: 78	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Monday, 13 July 2020	Stage 4
+Date: Tuesday, 8 September 2020	Stage 4
 record: 79	Group 1: 
 Time:
 00:00-02:30
@@ -7218,7 +7218,7 @@ Time:
 16:00-18:30
 06:00-08:30 
 ------------------------------------------------------------
-Date: Tuesday, 14 July 2020	Stage 1
+Date: Wednesday, 9 September 2020	Stage 1
 record: 80	Group 1: 
 Time:
 14:00-16:30 
@@ -7295,7 +7295,7 @@ record: 80	Group 19:
 Time:
 12:00-14:30 
 ------------------------------------------------------------
-Date: Tuesday, 14 July 2020	Stage 2
+Date: Wednesday, 9 September 2020	Stage 2
 record: 81	Group 1: 
 Time:
 04:00-06:30
@@ -7379,7 +7379,7 @@ Time:
 02:00-04:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Tuesday, 14 July 2020	Stage 3
+Date: Wednesday, 9 September 2020	Stage 3
 record: 82	Group 1: 
 Time:
 04:00-06:30
@@ -7473,7 +7473,7 @@ Time:
 02:00-04:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Tuesday, 14 July 2020	Stage 4
+Date: Wednesday, 9 September 2020	Stage 4
 record: 83	Group 1: 
 Time:
 04:00-06:30
@@ -7579,7 +7579,7 @@ Time:
 12:00-14:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Wednesday, 15 July 2020	Stage 1
+Date: Thursday, 10 September 2020	Stage 1
 record: 84	Group 1: 
 Time:
  
@@ -7656,7 +7656,7 @@ record: 84	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Wednesday, 15 July 2020	Stage 2
+Date: Thursday, 10 September 2020	Stage 2
 record: 85	Group 1: 
 Time:
 18:00-20:30 
@@ -7740,7 +7740,7 @@ record: 85	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Wednesday, 15 July 2020	Stage 3
+Date: Thursday, 10 September 2020	Stage 3
 record: 86	Group 1: 
 Time:
 08:00-10:30
@@ -7834,7 +7834,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Wednesday, 15 July 2020	Stage 4
+Date: Thursday, 10 September 2020	Stage 4
 record: 87	Group 1: 
 Time:
 08:00-10:30
@@ -7940,7 +7940,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Thursday, 16 July 2020	Stage 1
+Date: Friday, 11 September 2020	Stage 1
 record: 88	Group 1: 
 Time:
 04:00-06:30 
@@ -8017,7 +8017,7 @@ record: 88	Group 19:
 Time:
 02:00-04:30 
 ------------------------------------------------------------
-Date: Thursday, 16 July 2020	Stage 2
+Date: Friday, 11 September 2020	Stage 2
 record: 89	Group 1: 
 Time:
 04:00-06:30 
@@ -8101,7 +8101,7 @@ record: 89	Group 19:
 Time:
 02:00-04:30 
 ------------------------------------------------------------
-Date: Thursday, 16 July 2020	Stage 3
+Date: Friday, 11 September 2020	Stage 3
 record: 90	Group 1: 
 Time:
 04:00-06:30
@@ -8195,7 +8195,7 @@ Time:
 02:00-04:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Thursday, 16 July 2020	Stage 4
+Date: Friday, 11 September 2020	Stage 4
 record: 91	Group 1: 
 Time:
 04:00-06:30
@@ -8301,7 +8301,7 @@ Time:
 20:00-22:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Friday, 17 July 2020	Stage 1
+Date: Saturday, 12 September 2020	Stage 1
 record: 92	Group 1: 
 Time:
 18:00-20:30 
@@ -8378,7 +8378,7 @@ record: 92	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Friday, 17 July 2020	Stage 2
+Date: Saturday, 12 September 2020	Stage 2
 record: 93	Group 1: 
 Time:
 08:00-10:30
@@ -8462,7 +8462,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Friday, 17 July 2020	Stage 3
+Date: Saturday, 12 September 2020	Stage 3
 record: 94	Group 1: 
 Time:
 08:00-10:30
@@ -8556,7 +8556,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Friday, 17 July 2020	Stage 4
+Date: Saturday, 12 September 2020	Stage 4
 record: 95	Group 1: 
 Time:
 08:00-10:30
@@ -8662,7 +8662,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Saturday, 18 July 2020	Stage 1
+Date: Sunday, 13 September 2020	Stage 1
 record: 96	Group 1: 
 Time:
  
@@ -8739,7 +8739,7 @@ record: 96	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Saturday, 18 July 2020	Stage 2
+Date: Sunday, 13 September 2020	Stage 2
 record: 97	Group 1: 
 Time:
 22:00-00:30 
@@ -8823,7 +8823,7 @@ record: 97	Group 19:
 Time:
 20:00-22:30 
 ------------------------------------------------------------
-Date: Saturday, 18 July 2020	Stage 3
+Date: Sunday, 13 September 2020	Stage 3
 record: 98	Group 1: 
 Time:
 12:00-14:30
@@ -8917,7 +8917,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Saturday, 18 July 2020	Stage 4
+Date: Sunday, 13 September 2020	Stage 4
 record: 99	Group 1: 
 Time:
 12:00-14:30
@@ -9023,7 +9023,7 @@ Time:
 20:00-22:30
 00:00-02:30 
 ------------------------------------------------------------
-Date: Sunday, 19 July 2020	Stage 1
+Date: Monday, 14 September 2020	Stage 1
 record: 100	Group 1: 
 Time:
 08:00-10:30 
@@ -9100,7 +9100,7 @@ record: 100	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Sunday, 19 July 2020	Stage 2
+Date: Monday, 14 September 2020	Stage 2
 record: 101	Group 1: 
 Time:
 08:00-10:30 
@@ -9184,7 +9184,7 @@ record: 101	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Sunday, 19 July 2020	Stage 3
+Date: Monday, 14 September 2020	Stage 3
 record: 102	Group 1: 
 Time:
 08:00-10:30 
@@ -9278,7 +9278,7 @@ record: 102	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Sunday, 19 July 2020	Stage 4
+Date: Monday, 14 September 2020	Stage 4
 record: 103	Group 1: 
 Time:
 08:00-10:30
@@ -9384,7 +9384,7 @@ Time:
 06:00-08:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Monday, 20 July 2020	Stage 1
+Date: Tuesday, 15 September 2020	Stage 1
 record: 104	Group 1: 
 Time:
 22:00-00:30 
@@ -9461,7 +9461,7 @@ record: 104	Group 19:
 Time:
 20:00-22:30 
 ------------------------------------------------------------
-Date: Monday, 20 July 2020	Stage 2
+Date: Tuesday, 15 September 2020	Stage 2
 record: 105	Group 1: 
 Time:
 12:00-14:30
@@ -9545,7 +9545,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Monday, 20 July 2020	Stage 3
+Date: Tuesday, 15 September 2020	Stage 3
 record: 106	Group 1: 
 Time:
 02:00-04:30
@@ -9639,7 +9639,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Monday, 20 July 2020	Stage 4
+Date: Tuesday, 15 September 2020	Stage 4
 record: 107	Group 1: 
 Time:
 02:00-04:30
@@ -9745,7 +9745,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Tuesday, 21 July 2020	Stage 1
+Date: Wednesday, 16 September 2020	Stage 1
 record: 108	Group 1: 
 Time:
  
@@ -9822,7 +9822,7 @@ record: 108	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Tuesday, 21 July 2020	Stage 2
+Date: Wednesday, 16 September 2020	Stage 2
 record: 109	Group 1: 
 Time:
  
@@ -9906,7 +9906,7 @@ record: 109	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Tuesday, 21 July 2020	Stage 3
+Date: Wednesday, 16 September 2020	Stage 3
 record: 110	Group 1: 
 Time:
 16:00-18:30 
@@ -10000,7 +10000,7 @@ record: 110	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Tuesday, 21 July 2020	Stage 4
+Date: Wednesday, 16 September 2020	Stage 4
 record: 111	Group 1: 
 Time:
 16:00-18:30
@@ -10106,7 +10106,7 @@ Time:
 14:00-16:30
 04:00-06:30 
 ------------------------------------------------------------
-Date: Wednesday, 22 July 2020	Stage 1
+Date: Thursday, 17 September 2020	Stage 1
 record: 112	Group 1: 
 Time:
 12:00-14:30 
@@ -10183,7 +10183,7 @@ record: 112	Group 19:
 Time:
 10:00-12:30 
 ------------------------------------------------------------
-Date: Wednesday, 22 July 2020	Stage 2
+Date: Thursday, 17 September 2020	Stage 2
 record: 113	Group 1: 
 Time:
 02:00-04:30
@@ -10267,7 +10267,7 @@ Time:
 00:00-02:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Wednesday, 22 July 2020	Stage 3
+Date: Thursday, 17 September 2020	Stage 3
 record: 114	Group 1: 
 Time:
 02:00-04:30
@@ -10361,7 +10361,7 @@ Time:
 00:00-02:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Wednesday, 22 July 2020	Stage 4
+Date: Thursday, 17 September 2020	Stage 4
 record: 115	Group 1: 
 Time:
 02:00-04:30
@@ -10467,7 +10467,7 @@ Time:
 10:00-12:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Thursday, 23 July 2020	Stage 1
+Date: Friday, 18 September 2020	Stage 1
 record: 116	Group 1: 
 Time:
  
@@ -10544,7 +10544,7 @@ record: 116	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Thursday, 23 July 2020	Stage 2
+Date: Friday, 18 September 2020	Stage 2
 record: 117	Group 1: 
 Time:
 16:00-18:30 
@@ -10628,7 +10628,7 @@ record: 117	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Thursday, 23 July 2020	Stage 3
+Date: Friday, 18 September 2020	Stage 3
 record: 118	Group 1: 
 Time:
 06:00-08:30
@@ -10722,7 +10722,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Thursday, 23 July 2020	Stage 4
+Date: Friday, 18 September 2020	Stage 4
 record: 119	Group 1: 
 Time:
 06:00-08:30
@@ -10828,7 +10828,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Friday, 24 July 2020	Stage 1
+Date: Saturday, 19 September 2020	Stage 1
 record: 120	Group 1: 
 Time:
 02:00-04:30 
@@ -10905,7 +10905,7 @@ record: 120	Group 19:
 Time:
 00:00-02:30 
 ------------------------------------------------------------
-Date: Friday, 24 July 2020	Stage 2
+Date: Saturday, 19 September 2020	Stage 2
 record: 121	Group 1: 
 Time:
 02:00-04:30 
@@ -10989,7 +10989,7 @@ record: 121	Group 19:
 Time:
 00:00-02:30 
 ------------------------------------------------------------
-Date: Friday, 24 July 2020	Stage 3
+Date: Saturday, 19 September 2020	Stage 3
 record: 122	Group 1: 
 Time:
 02:00-04:30
@@ -11083,7 +11083,7 @@ Time:
 00:00-02:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Friday, 24 July 2020	Stage 4
+Date: Saturday, 19 September 2020	Stage 4
 record: 123	Group 1: 
 Time:
 02:00-04:30
@@ -11189,7 +11189,7 @@ Time:
 18:00-20:30
 08:00-10:30 
 ------------------------------------------------------------
-Date: Saturday, 25 July 2020	Stage 1
+Date: Sunday, 20 September 2020	Stage 1
 record: 124	Group 1: 
 Time:
 16:00-18:30 
@@ -11266,7 +11266,7 @@ record: 124	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Saturday, 25 July 2020	Stage 2
+Date: Sunday, 20 September 2020	Stage 2
 record: 125	Group 1: 
 Time:
 06:00-08:30
@@ -11350,7 +11350,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Saturday, 25 July 2020	Stage 3
+Date: Sunday, 20 September 2020	Stage 3
 record: 126	Group 1: 
 Time:
 06:00-08:30
@@ -11444,7 +11444,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Saturday, 25 July 2020	Stage 4
+Date: Sunday, 20 September 2020	Stage 4
 record: 127	Group 1: 
 Time:
 06:00-08:30
@@ -11550,7 +11550,7 @@ Time:
 14:00-16:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Sunday, 26 July 2020	Stage 1
+Date: Monday, 21 September 2020	Stage 1
 record: 128	Group 1: 
 Time:
  
@@ -11627,7 +11627,7 @@ record: 128	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Sunday, 26 July 2020	Stage 2
+Date: Monday, 21 September 2020	Stage 2
 record: 129	Group 1: 
 Time:
 20:00-22:30 
@@ -11711,7 +11711,7 @@ record: 129	Group 19:
 Time:
 18:00-20:30 
 ------------------------------------------------------------
-Date: Sunday, 26 July 2020	Stage 3
+Date: Monday, 21 September 2020	Stage 3
 record: 130	Group 1: 
 Time:
 10:00-12:30
@@ -11805,7 +11805,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Sunday, 26 July 2020	Stage 4
+Date: Monday, 21 September 2020	Stage 4
 record: 131	Group 1: 
 Time:
 10:00-12:30
@@ -11911,7 +11911,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Monday, 27 July 2020	Stage 1
+Date: Tuesday, 22 September 2020	Stage 1
 record: 132	Group 1: 
 Time:
 06:00-08:30 
@@ -11988,7 +11988,7 @@ record: 132	Group 19:
 Time:
 04:00-06:30 
 ------------------------------------------------------------
-Date: Monday, 27 July 2020	Stage 2
+Date: Tuesday, 22 September 2020	Stage 2
 record: 133	Group 1: 
 Time:
 06:00-08:30 
@@ -12072,7 +12072,7 @@ record: 133	Group 19:
 Time:
 04:00-06:30 
 ------------------------------------------------------------
-Date: Monday, 27 July 2020	Stage 3
+Date: Tuesday, 22 September 2020	Stage 3
 record: 134	Group 1: 
 Time:
 06:00-08:30 
@@ -12166,7 +12166,7 @@ Time:
 04:00-06:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Monday, 27 July 2020	Stage 4
+Date: Tuesday, 22 September 2020	Stage 4
 record: 135	Group 1: 
 Time:
 06:00-08:30
@@ -12272,7 +12272,7 @@ Time:
 22:00-00:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Tuesday, 28 July 2020	Stage 1
+Date: Wednesday, 23 September 2020	Stage 1
 record: 136	Group 1: 
 Time:
 20:00-22:30 
@@ -12349,7 +12349,7 @@ record: 136	Group 19:
 Time:
 18:00-20:30 
 ------------------------------------------------------------
-Date: Tuesday, 28 July 2020	Stage 2
+Date: Wednesday, 23 September 2020	Stage 2
 record: 137	Group 1: 
 Time:
 10:00-12:30
@@ -12433,7 +12433,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Tuesday, 28 July 2020	Stage 3
+Date: Wednesday, 23 September 2020	Stage 3
 record: 138	Group 1: 
 Time:
 00:00-02:30
@@ -12527,7 +12527,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Tuesday, 28 July 2020	Stage 4
+Date: Wednesday, 23 September 2020	Stage 4
 record: 139	Group 1: 
 Time:
 00:00-02:30
@@ -12633,7 +12633,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Wednesday, 29 July 2020	Stage 1
+Date: Thursday, 24 September 2020	Stage 1
 record: 140	Group 1: 
 Time:
  
@@ -12710,7 +12710,7 @@ record: 140	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Wednesday, 29 July 2020	Stage 2
+Date: Thursday, 24 September 2020	Stage 2
 record: 141	Group 1: 
 Time:
  
@@ -12794,7 +12794,7 @@ record: 141	Group 19:
 Time:
 22:00-00:30 
 ------------------------------------------------------------
-Date: Wednesday, 29 July 2020	Stage 3
+Date: Thursday, 24 September 2020	Stage 3
 record: 142	Group 1: 
 Time:
 14:00-16:30 
@@ -12888,7 +12888,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Wednesday, 29 July 2020	Stage 4
+Date: Thursday, 24 September 2020	Stage 4
 record: 143	Group 1: 
 Time:
 14:00-16:30
@@ -12994,7 +12994,7 @@ Time:
 22:00-00:30
 02:00-04:30 
 ------------------------------------------------------------
-Date: Thursday, 30 July 2020	Stage 1
+Date: Friday, 25 September 2020	Stage 1
 record: 144	Group 1: 
 Time:
 10:00-12:30 
@@ -13071,7 +13071,7 @@ record: 144	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Thursday, 30 July 2020	Stage 2
+Date: Friday, 25 September 2020	Stage 2
 record: 145	Group 1: 
 Time:
 00:00-02:30
@@ -13155,7 +13155,7 @@ record: 145	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Thursday, 30 July 2020	Stage 3
+Date: Friday, 25 September 2020	Stage 3
 record: 146	Group 1: 
 Time:
 00:00-02:30
@@ -13249,7 +13249,7 @@ record: 146	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Thursday, 30 July 2020	Stage 4
+Date: Friday, 25 September 2020	Stage 4
 record: 147	Group 1: 
 Time:
 00:00-02:30
@@ -13355,7 +13355,7 @@ Time:
 08:00-10:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Friday, 31 July 2020	Stage 1
+Date: Saturday, 26 September 2020	Stage 1
 record: 148	Group 1: 
 Time:
  
@@ -13432,7 +13432,7 @@ record: 148	Group 19:
 Time:
 22:00-00:30 
 ------------------------------------------------------------
-Date: Friday, 31 July 2020	Stage 2
+Date: Saturday, 26 September 2020	Stage 2
 record: 149	Group 1: 
 Time:
 14:00-16:30 
@@ -13516,7 +13516,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Friday, 31 July 2020	Stage 3
+Date: Saturday, 26 September 2020	Stage 3
 record: 150	Group 1: 
 Time:
 04:00-06:30
@@ -13610,7 +13610,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Friday, 31 July 2020	Stage 4
+Date: Saturday, 26 September 2020	Stage 4
 record: 151	Group 1: 
 Time:
 04:00-06:30
@@ -13716,7 +13716,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Saturday, 1 August 2020	Stage 1
+Date: Sunday, 27 September 2020	Stage 1
 record: 152	Group 1: 
 Time:
 00:00-02:30 
@@ -13793,7 +13793,7 @@ record: 152	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Saturday, 1 August 2020	Stage 2
+Date: Sunday, 27 September 2020	Stage 2
 record: 153	Group 1: 
 Time:
 00:00-02:30 
@@ -13877,7 +13877,7 @@ record: 153	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Saturday, 1 August 2020	Stage 3
+Date: Sunday, 27 September 2020	Stage 3
 record: 154	Group 1: 
 Time:
 00:00-02:30
@@ -13971,7 +13971,7 @@ record: 154	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Saturday, 1 August 2020	Stage 4
+Date: Sunday, 27 September 2020	Stage 4
 record: 155	Group 1: 
 Time:
 00:00-02:30
@@ -14077,7 +14077,7 @@ Time:
 16:00-18:30
 06:00-08:30 
 ------------------------------------------------------------
-Date: Sunday, 2 August 2020	Stage 1
+Date: Monday, 28 September 2020	Stage 1
 record: 156	Group 1: 
 Time:
 14:00-16:30 
@@ -14154,7 +14154,7 @@ record: 156	Group 19:
 Time:
 12:00-14:30 
 ------------------------------------------------------------
-Date: Sunday, 2 August 2020	Stage 2
+Date: Monday, 28 September 2020	Stage 2
 record: 157	Group 1: 
 Time:
 04:00-06:30
@@ -14238,7 +14238,7 @@ Time:
 02:00-04:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Sunday, 2 August 2020	Stage 3
+Date: Monday, 28 September 2020	Stage 3
 record: 158	Group 1: 
 Time:
 04:00-06:30
@@ -14332,7 +14332,7 @@ Time:
 02:00-04:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Sunday, 2 August 2020	Stage 4
+Date: Monday, 28 September 2020	Stage 4
 record: 159	Group 1: 
 Time:
 04:00-06:30
@@ -14438,7 +14438,7 @@ Time:
 12:00-14:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Monday, 3 August 2020	Stage 1
+Date: Tuesday, 29 September 2020	Stage 1
 record: 160	Group 1: 
 Time:
  
@@ -14515,7 +14515,7 @@ record: 160	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Monday, 3 August 2020	Stage 2
+Date: Tuesday, 29 September 2020	Stage 2
 record: 161	Group 1: 
 Time:
 18:00-20:30 
@@ -14599,7 +14599,7 @@ record: 161	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Monday, 3 August 2020	Stage 3
+Date: Tuesday, 29 September 2020	Stage 3
 record: 162	Group 1: 
 Time:
 08:00-10:30
@@ -14693,7 +14693,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Monday, 3 August 2020	Stage 4
+Date: Tuesday, 29 September 2020	Stage 4
 record: 163	Group 1: 
 Time:
 08:00-10:30
@@ -14799,7 +14799,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Tuesday, 4 August 2020	Stage 1
+Date: Wednesday, 30 September 2020	Stage 1
 record: 164	Group 1: 
 Time:
 04:00-06:30 
@@ -14876,7 +14876,7 @@ record: 164	Group 19:
 Time:
 02:00-04:30 
 ------------------------------------------------------------
-Date: Tuesday, 4 August 2020	Stage 2
+Date: Wednesday, 30 September 2020	Stage 2
 record: 165	Group 1: 
 Time:
 04:00-06:30 
@@ -14960,7 +14960,7 @@ record: 165	Group 19:
 Time:
 02:00-04:30 
 ------------------------------------------------------------
-Date: Tuesday, 4 August 2020	Stage 3
+Date: Wednesday, 30 September 2020	Stage 3
 record: 166	Group 1: 
 Time:
 04:00-06:30
@@ -15054,7 +15054,7 @@ Time:
 02:00-04:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Tuesday, 4 August 2020	Stage 4
+Date: Wednesday, 30 September 2020	Stage 4
 record: 167	Group 1: 
 Time:
 04:00-06:30
@@ -15160,7 +15160,7 @@ Time:
 20:00-22:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Wednesday, 5 August 2020	Stage 1
+Date: Thursday, 1 October 2020	Stage 1
 record: 168	Group 1: 
 Time:
 18:00-20:30 
@@ -15237,7 +15237,7 @@ record: 168	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Wednesday, 5 August 2020	Stage 2
+Date: Thursday, 1 October 2020	Stage 2
 record: 169	Group 1: 
 Time:
 08:00-10:30
@@ -15321,7 +15321,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Wednesday, 5 August 2020	Stage 3
+Date: Thursday, 1 October 2020	Stage 3
 record: 170	Group 1: 
 Time:
 08:00-10:30
@@ -15415,7 +15415,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Wednesday, 5 August 2020	Stage 4
+Date: Thursday, 1 October 2020	Stage 4
 record: 171	Group 1: 
 Time:
 08:00-10:30
@@ -15521,7 +15521,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Thursday, 6 August 2020	Stage 1
+Date: Friday, 2 October 2020	Stage 1
 record: 172	Group 1: 
 Time:
  
@@ -15598,7 +15598,7 @@ record: 172	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Thursday, 6 August 2020	Stage 2
+Date: Friday, 2 October 2020	Stage 2
 record: 173	Group 1: 
 Time:
 22:00-00:30 
@@ -15682,7 +15682,7 @@ record: 173	Group 19:
 Time:
 20:00-22:30 
 ------------------------------------------------------------
-Date: Thursday, 6 August 2020	Stage 3
+Date: Friday, 2 October 2020	Stage 3
 record: 174	Group 1: 
 Time:
 12:00-14:30
@@ -15776,7 +15776,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Thursday, 6 August 2020	Stage 4
+Date: Friday, 2 October 2020	Stage 4
 record: 175	Group 1: 
 Time:
 12:00-14:30
@@ -15882,7 +15882,7 @@ Time:
 20:00-22:30
 00:00-02:30 
 ------------------------------------------------------------
-Date: Friday, 7 August 2020	Stage 1
+Date: Saturday, 3 October 2020	Stage 1
 record: 176	Group 1: 
 Time:
 08:00-10:30 
@@ -15959,7 +15959,7 @@ record: 176	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Friday, 7 August 2020	Stage 2
+Date: Saturday, 3 October 2020	Stage 2
 record: 177	Group 1: 
 Time:
 08:00-10:30 
@@ -16043,7 +16043,7 @@ record: 177	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Friday, 7 August 2020	Stage 3
+Date: Saturday, 3 October 2020	Stage 3
 record: 178	Group 1: 
 Time:
 08:00-10:30 
@@ -16137,7 +16137,7 @@ record: 178	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Friday, 7 August 2020	Stage 4
+Date: Saturday, 3 October 2020	Stage 4
 record: 179	Group 1: 
 Time:
 08:00-10:30
@@ -16243,7 +16243,7 @@ Time:
 06:00-08:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Saturday, 8 August 2020	Stage 1
+Date: Sunday, 4 October 2020	Stage 1
 record: 180	Group 1: 
 Time:
 22:00-00:30 
@@ -16320,7 +16320,7 @@ record: 180	Group 19:
 Time:
 20:00-22:30 
 ------------------------------------------------------------
-Date: Saturday, 8 August 2020	Stage 2
+Date: Sunday, 4 October 2020	Stage 2
 record: 181	Group 1: 
 Time:
 12:00-14:30
@@ -16404,7 +16404,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Saturday, 8 August 2020	Stage 3
+Date: Sunday, 4 October 2020	Stage 3
 record: 182	Group 1: 
 Time:
 02:00-04:30
@@ -16498,7 +16498,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Saturday, 8 August 2020	Stage 4
+Date: Sunday, 4 October 2020	Stage 4
 record: 183	Group 1: 
 Time:
 02:00-04:30
@@ -16604,7 +16604,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Sunday, 9 August 2020	Stage 1
+Date: Monday, 5 October 2020	Stage 1
 record: 184	Group 1: 
 Time:
  
@@ -16681,7 +16681,7 @@ record: 184	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Sunday, 9 August 2020	Stage 2
+Date: Monday, 5 October 2020	Stage 2
 record: 185	Group 1: 
 Time:
  
@@ -16765,7 +16765,7 @@ record: 185	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Sunday, 9 August 2020	Stage 3
+Date: Monday, 5 October 2020	Stage 3
 record: 186	Group 1: 
 Time:
 16:00-18:30 
@@ -16859,7 +16859,7 @@ record: 186	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Sunday, 9 August 2020	Stage 4
+Date: Monday, 5 October 2020	Stage 4
 record: 187	Group 1: 
 Time:
 16:00-18:30
@@ -16965,7 +16965,7 @@ Time:
 14:00-16:30
 04:00-06:30 
 ------------------------------------------------------------
-Date: Monday, 10 August 2020	Stage 1
+Date: Tuesday, 6 October 2020	Stage 1
 record: 188	Group 1: 
 Time:
 12:00-14:30 
@@ -17042,7 +17042,7 @@ record: 188	Group 19:
 Time:
 10:00-12:30 
 ------------------------------------------------------------
-Date: Monday, 10 August 2020	Stage 2
+Date: Tuesday, 6 October 2020	Stage 2
 record: 189	Group 1: 
 Time:
 02:00-04:30
@@ -17126,7 +17126,7 @@ Time:
 00:00-02:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Monday, 10 August 2020	Stage 3
+Date: Tuesday, 6 October 2020	Stage 3
 record: 190	Group 1: 
 Time:
 02:00-04:30
@@ -17220,7 +17220,7 @@ Time:
 00:00-02:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Monday, 10 August 2020	Stage 4
+Date: Tuesday, 6 October 2020	Stage 4
 record: 191	Group 1: 
 Time:
 02:00-04:30
@@ -17326,7 +17326,7 @@ Time:
 10:00-12:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Tuesday, 11 August 2020	Stage 1
+Date: Wednesday, 7 October 2020	Stage 1
 record: 192	Group 1: 
 Time:
  
@@ -17403,7 +17403,7 @@ record: 192	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Tuesday, 11 August 2020	Stage 2
+Date: Wednesday, 7 October 2020	Stage 2
 record: 193	Group 1: 
 Time:
 16:00-18:30 
@@ -17487,7 +17487,7 @@ record: 193	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Tuesday, 11 August 2020	Stage 3
+Date: Wednesday, 7 October 2020	Stage 3
 record: 194	Group 1: 
 Time:
 06:00-08:30
@@ -17581,7 +17581,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Tuesday, 11 August 2020	Stage 4
+Date: Wednesday, 7 October 2020	Stage 4
 record: 195	Group 1: 
 Time:
 06:00-08:30
@@ -17687,7 +17687,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Wednesday, 12 August 2020	Stage 1
+Date: Thursday, 8 October 2020	Stage 1
 record: 196	Group 1: 
 Time:
 02:00-04:30 
@@ -17764,7 +17764,7 @@ record: 196	Group 19:
 Time:
 00:00-02:30 
 ------------------------------------------------------------
-Date: Wednesday, 12 August 2020	Stage 2
+Date: Thursday, 8 October 2020	Stage 2
 record: 197	Group 1: 
 Time:
 02:00-04:30 
@@ -17848,7 +17848,7 @@ record: 197	Group 19:
 Time:
 00:00-02:30 
 ------------------------------------------------------------
-Date: Wednesday, 12 August 2020	Stage 3
+Date: Thursday, 8 October 2020	Stage 3
 record: 198	Group 1: 
 Time:
 02:00-04:30
@@ -17942,7 +17942,7 @@ Time:
 00:00-02:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Wednesday, 12 August 2020	Stage 4
+Date: Thursday, 8 October 2020	Stage 4
 record: 199	Group 1: 
 Time:
 02:00-04:30
@@ -18048,7 +18048,7 @@ Time:
 18:00-20:30
 08:00-10:30 
 ------------------------------------------------------------
-Date: Thursday, 13 August 2020	Stage 1
+Date: Friday, 9 October 2020	Stage 1
 record: 200	Group 1: 
 Time:
 16:00-18:30 
@@ -18125,7 +18125,7 @@ record: 200	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Thursday, 13 August 2020	Stage 2
+Date: Friday, 9 October 2020	Stage 2
 record: 201	Group 1: 
 Time:
 06:00-08:30
@@ -18209,7 +18209,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Thursday, 13 August 2020	Stage 3
+Date: Friday, 9 October 2020	Stage 3
 record: 202	Group 1: 
 Time:
 06:00-08:30
@@ -18303,7 +18303,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Thursday, 13 August 2020	Stage 4
+Date: Friday, 9 October 2020	Stage 4
 record: 203	Group 1: 
 Time:
 06:00-08:30
@@ -18409,7 +18409,7 @@ Time:
 14:00-16:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Friday, 14 August 2020	Stage 1
+Date: Saturday, 10 October 2020	Stage 1
 record: 204	Group 1: 
 Time:
  
@@ -18486,7 +18486,7 @@ record: 204	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Friday, 14 August 2020	Stage 2
+Date: Saturday, 10 October 2020	Stage 2
 record: 205	Group 1: 
 Time:
 20:00-22:30 
@@ -18570,7 +18570,7 @@ record: 205	Group 19:
 Time:
 18:00-20:30 
 ------------------------------------------------------------
-Date: Friday, 14 August 2020	Stage 3
+Date: Saturday, 10 October 2020	Stage 3
 record: 206	Group 1: 
 Time:
 10:00-12:30
@@ -18664,7 +18664,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Friday, 14 August 2020	Stage 4
+Date: Saturday, 10 October 2020	Stage 4
 record: 207	Group 1: 
 Time:
 10:00-12:30
@@ -18770,7 +18770,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Saturday, 15 August 2020	Stage 1
+Date: Sunday, 11 October 2020	Stage 1
 record: 208	Group 1: 
 Time:
 06:00-08:30 
@@ -18847,7 +18847,7 @@ record: 208	Group 19:
 Time:
 04:00-06:30 
 ------------------------------------------------------------
-Date: Saturday, 15 August 2020	Stage 2
+Date: Sunday, 11 October 2020	Stage 2
 record: 209	Group 1: 
 Time:
 06:00-08:30 
@@ -18931,7 +18931,7 @@ record: 209	Group 19:
 Time:
 04:00-06:30 
 ------------------------------------------------------------
-Date: Saturday, 15 August 2020	Stage 3
+Date: Sunday, 11 October 2020	Stage 3
 record: 210	Group 1: 
 Time:
 06:00-08:30 
@@ -19025,7 +19025,7 @@ Time:
 04:00-06:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Saturday, 15 August 2020	Stage 4
+Date: Sunday, 11 October 2020	Stage 4
 record: 211	Group 1: 
 Time:
 06:00-08:30
@@ -19131,7 +19131,7 @@ Time:
 22:00-00:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Sunday, 16 August 2020	Stage 1
+Date: Monday, 12 October 2020	Stage 1
 record: 212	Group 1: 
 Time:
 20:00-22:30 
@@ -19208,7 +19208,7 @@ record: 212	Group 19:
 Time:
 18:00-20:30 
 ------------------------------------------------------------
-Date: Sunday, 16 August 2020	Stage 2
+Date: Monday, 12 October 2020	Stage 2
 record: 213	Group 1: 
 Time:
 10:00-12:30
@@ -19292,7 +19292,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Sunday, 16 August 2020	Stage 3
+Date: Monday, 12 October 2020	Stage 3
 record: 214	Group 1: 
 Time:
 00:00-02:30
@@ -19386,7 +19386,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Sunday, 16 August 2020	Stage 4
+Date: Monday, 12 October 2020	Stage 4
 record: 215	Group 1: 
 Time:
 00:00-02:30
@@ -19492,7 +19492,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Monday, 17 August 2020	Stage 1
+Date: Tuesday, 13 October 2020	Stage 1
 record: 216	Group 1: 
 Time:
  
@@ -19569,7 +19569,7 @@ record: 216	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Monday, 17 August 2020	Stage 2
+Date: Tuesday, 13 October 2020	Stage 2
 record: 217	Group 1: 
 Time:
  
@@ -19653,7 +19653,7 @@ record: 217	Group 19:
 Time:
 22:00-00:30 
 ------------------------------------------------------------
-Date: Monday, 17 August 2020	Stage 3
+Date: Tuesday, 13 October 2020	Stage 3
 record: 218	Group 1: 
 Time:
 14:00-16:30 
@@ -19747,7 +19747,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Monday, 17 August 2020	Stage 4
+Date: Tuesday, 13 October 2020	Stage 4
 record: 219	Group 1: 
 Time:
 14:00-16:30
@@ -19853,7 +19853,7 @@ Time:
 22:00-00:30
 02:00-04:30 
 ------------------------------------------------------------
-Date: Tuesday, 18 August 2020	Stage 1
+Date: Wednesday, 14 October 2020	Stage 1
 record: 220	Group 1: 
 Time:
 10:00-12:30 
@@ -19930,7 +19930,7 @@ record: 220	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Tuesday, 18 August 2020	Stage 2
+Date: Wednesday, 14 October 2020	Stage 2
 record: 221	Group 1: 
 Time:
 00:00-02:30
@@ -20014,7 +20014,7 @@ record: 221	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Tuesday, 18 August 2020	Stage 3
+Date: Wednesday, 14 October 2020	Stage 3
 record: 222	Group 1: 
 Time:
 00:00-02:30
@@ -20108,7 +20108,7 @@ record: 222	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Tuesday, 18 August 2020	Stage 4
+Date: Wednesday, 14 October 2020	Stage 4
 record: 223	Group 1: 
 Time:
 00:00-02:30
@@ -20214,7 +20214,7 @@ Time:
 08:00-10:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Wednesday, 19 August 2020	Stage 1
+Date: Thursday, 15 October 2020	Stage 1
 record: 224	Group 1: 
 Time:
  
@@ -20291,7 +20291,7 @@ record: 224	Group 19:
 Time:
 22:00-00:30 
 ------------------------------------------------------------
-Date: Wednesday, 19 August 2020	Stage 2
+Date: Thursday, 15 October 2020	Stage 2
 record: 225	Group 1: 
 Time:
 14:00-16:30 
@@ -20375,7 +20375,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Wednesday, 19 August 2020	Stage 3
+Date: Thursday, 15 October 2020	Stage 3
 record: 226	Group 1: 
 Time:
 04:00-06:30
@@ -20469,7 +20469,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Wednesday, 19 August 2020	Stage 4
+Date: Thursday, 15 October 2020	Stage 4
 record: 227	Group 1: 
 Time:
 04:00-06:30
@@ -20575,7 +20575,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Thursday, 20 August 2020	Stage 1
+Date: Friday, 16 October 2020	Stage 1
 record: 228	Group 1: 
 Time:
 00:00-02:30 
@@ -20652,7 +20652,7 @@ record: 228	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Thursday, 20 August 2020	Stage 2
+Date: Friday, 16 October 2020	Stage 2
 record: 229	Group 1: 
 Time:
 00:00-02:30 
@@ -20736,7 +20736,7 @@ record: 229	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Thursday, 20 August 2020	Stage 3
+Date: Friday, 16 October 2020	Stage 3
 record: 230	Group 1: 
 Time:
 00:00-02:30
@@ -20830,7 +20830,7 @@ record: 230	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Thursday, 20 August 2020	Stage 4
+Date: Friday, 16 October 2020	Stage 4
 record: 231	Group 1: 
 Time:
 00:00-02:30
@@ -20936,7 +20936,7 @@ Time:
 16:00-18:30
 06:00-08:30 
 ------------------------------------------------------------
-Date: Friday, 21 August 2020	Stage 1
+Date: Saturday, 17 October 2020	Stage 1
 record: 232	Group 1: 
 Time:
 14:00-16:30 
@@ -21013,7 +21013,7 @@ record: 232	Group 19:
 Time:
 12:00-14:30 
 ------------------------------------------------------------
-Date: Friday, 21 August 2020	Stage 2
+Date: Saturday, 17 October 2020	Stage 2
 record: 233	Group 1: 
 Time:
 04:00-06:30
@@ -21097,7 +21097,7 @@ Time:
 02:00-04:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Friday, 21 August 2020	Stage 3
+Date: Saturday, 17 October 2020	Stage 3
 record: 234	Group 1: 
 Time:
 04:00-06:30
@@ -21191,7 +21191,7 @@ Time:
 02:00-04:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Friday, 21 August 2020	Stage 4
+Date: Saturday, 17 October 2020	Stage 4
 record: 235	Group 1: 
 Time:
 04:00-06:30
@@ -21297,7 +21297,7 @@ Time:
 12:00-14:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Saturday, 22 August 2020	Stage 1
+Date: Sunday, 18 October 2020	Stage 1
 record: 236	Group 1: 
 Time:
  
@@ -21374,7 +21374,7 @@ record: 236	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Saturday, 22 August 2020	Stage 2
+Date: Sunday, 18 October 2020	Stage 2
 record: 237	Group 1: 
 Time:
 18:00-20:30 
@@ -21458,7 +21458,7 @@ record: 237	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Saturday, 22 August 2020	Stage 3
+Date: Sunday, 18 October 2020	Stage 3
 record: 238	Group 1: 
 Time:
 08:00-10:30
@@ -21552,7 +21552,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Saturday, 22 August 2020	Stage 4
+Date: Sunday, 18 October 2020	Stage 4
 record: 239	Group 1: 
 Time:
 08:00-10:30
@@ -21658,7 +21658,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Sunday, 23 August 2020	Stage 1
+Date: Monday, 19 October 2020	Stage 1
 record: 240	Group 1: 
 Time:
 04:00-06:30 
@@ -21735,7 +21735,7 @@ record: 240	Group 19:
 Time:
 02:00-04:30 
 ------------------------------------------------------------
-Date: Sunday, 23 August 2020	Stage 2
+Date: Monday, 19 October 2020	Stage 2
 record: 241	Group 1: 
 Time:
 04:00-06:30 
@@ -21819,7 +21819,7 @@ record: 241	Group 19:
 Time:
 02:00-04:30 
 ------------------------------------------------------------
-Date: Sunday, 23 August 2020	Stage 3
+Date: Monday, 19 October 2020	Stage 3
 record: 242	Group 1: 
 Time:
 04:00-06:30
@@ -21913,7 +21913,7 @@ Time:
 02:00-04:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Sunday, 23 August 2020	Stage 4
+Date: Monday, 19 October 2020	Stage 4
 record: 243	Group 1: 
 Time:
 04:00-06:30
@@ -22019,7 +22019,7 @@ Time:
 20:00-22:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Monday, 24 August 2020	Stage 1
+Date: Tuesday, 20 October 2020	Stage 1
 record: 244	Group 1: 
 Time:
 18:00-20:30 
@@ -22096,7 +22096,7 @@ record: 244	Group 19:
 Time:
 16:00-18:30 
 ------------------------------------------------------------
-Date: Monday, 24 August 2020	Stage 2
+Date: Tuesday, 20 October 2020	Stage 2
 record: 245	Group 1: 
 Time:
 08:00-10:30
@@ -22180,7 +22180,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Monday, 24 August 2020	Stage 3
+Date: Tuesday, 20 October 2020	Stage 3
 record: 246	Group 1: 
 Time:
 08:00-10:30
@@ -22274,7 +22274,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Monday, 24 August 2020	Stage 4
+Date: Tuesday, 20 October 2020	Stage 4
 record: 247	Group 1: 
 Time:
 08:00-10:30
@@ -22380,7 +22380,7 @@ Time:
 06:00-08:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Tuesday, 25 August 2020	Stage 1
+Date: Wednesday, 21 October 2020	Stage 1
 record: 248	Group 1: 
 Time:
  
@@ -22457,7 +22457,7 @@ record: 248	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Tuesday, 25 August 2020	Stage 2
+Date: Wednesday, 21 October 2020	Stage 2
 record: 249	Group 1: 
 Time:
 22:00-00:30 
@@ -22541,7 +22541,7 @@ record: 249	Group 19:
 Time:
 20:00-22:30 
 ------------------------------------------------------------
-Date: Tuesday, 25 August 2020	Stage 3
+Date: Wednesday, 21 October 2020	Stage 3
 record: 250	Group 1: 
 Time:
 12:00-14:30
@@ -22635,7 +22635,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Tuesday, 25 August 2020	Stage 4
+Date: Wednesday, 21 October 2020	Stage 4
 record: 251	Group 1: 
 Time:
 12:00-14:30
@@ -22741,7 +22741,7 @@ Time:
 20:00-22:30
 00:00-02:30 
 ------------------------------------------------------------
-Date: Wednesday, 26 August 2020	Stage 1
+Date: Thursday, 22 October 2020	Stage 1
 record: 252	Group 1: 
 Time:
 08:00-10:30 
@@ -22818,7 +22818,7 @@ record: 252	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Wednesday, 26 August 2020	Stage 2
+Date: Thursday, 22 October 2020	Stage 2
 record: 253	Group 1: 
 Time:
 08:00-10:30 
@@ -22902,7 +22902,7 @@ record: 253	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Wednesday, 26 August 2020	Stage 3
+Date: Thursday, 22 October 2020	Stage 3
 record: 254	Group 1: 
 Time:
 08:00-10:30 
@@ -22996,7 +22996,7 @@ record: 254	Group 19:
 Time:
 06:00-08:30 
 ------------------------------------------------------------
-Date: Wednesday, 26 August 2020	Stage 4
+Date: Thursday, 22 October 2020	Stage 4
 record: 255	Group 1: 
 Time:
 08:00-10:30
@@ -23102,7 +23102,7 @@ Time:
 06:00-08:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Thursday, 27 August 2020	Stage 1
+Date: Friday, 23 October 2020	Stage 1
 record: 256	Group 1: 
 Time:
 22:00-00:30 
@@ -23179,7 +23179,7 @@ record: 256	Group 19:
 Time:
 20:00-22:30 
 ------------------------------------------------------------
-Date: Thursday, 27 August 2020	Stage 2
+Date: Friday, 23 October 2020	Stage 2
 record: 257	Group 1: 
 Time:
 12:00-14:30
@@ -23263,7 +23263,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Thursday, 27 August 2020	Stage 3
+Date: Friday, 23 October 2020	Stage 3
 record: 258	Group 1: 
 Time:
 02:00-04:30
@@ -23357,7 +23357,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Thursday, 27 August 2020	Stage 4
+Date: Friday, 23 October 2020	Stage 4
 record: 259	Group 1: 
 Time:
 02:00-04:30
@@ -23463,7 +23463,7 @@ Time:
 10:00-12:30
 20:00-22:30 
 ------------------------------------------------------------
-Date: Friday, 28 August 2020	Stage 1
+Date: Saturday, 24 October 2020	Stage 1
 record: 260	Group 1: 
 Time:
  
@@ -23540,7 +23540,7 @@ record: 260	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Friday, 28 August 2020	Stage 2
+Date: Saturday, 24 October 2020	Stage 2
 record: 261	Group 1: 
 Time:
  
@@ -23624,7 +23624,7 @@ record: 261	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Friday, 28 August 2020	Stage 3
+Date: Saturday, 24 October 2020	Stage 3
 record: 262	Group 1: 
 Time:
 16:00-18:30 
@@ -23718,7 +23718,7 @@ record: 262	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Friday, 28 August 2020	Stage 4
+Date: Saturday, 24 October 2020	Stage 4
 record: 263	Group 1: 
 Time:
 16:00-18:30
@@ -23824,7 +23824,7 @@ Time:
 14:00-16:30
 04:00-06:30 
 ------------------------------------------------------------
-Date: Saturday, 29 August 2020	Stage 1
+Date: Sunday, 25 October 2020	Stage 1
 record: 264	Group 1: 
 Time:
 12:00-14:30 
@@ -23901,7 +23901,7 @@ record: 264	Group 19:
 Time:
 10:00-12:30 
 ------------------------------------------------------------
-Date: Saturday, 29 August 2020	Stage 2
+Date: Sunday, 25 October 2020	Stage 2
 record: 265	Group 1: 
 Time:
 02:00-04:30
@@ -23985,7 +23985,7 @@ Time:
 00:00-02:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Saturday, 29 August 2020	Stage 3
+Date: Sunday, 25 October 2020	Stage 3
 record: 266	Group 1: 
 Time:
 02:00-04:30
@@ -24079,7 +24079,7 @@ Time:
 00:00-02:30
 10:00-12:30 
 ------------------------------------------------------------
-Date: Saturday, 29 August 2020	Stage 4
+Date: Sunday, 25 October 2020	Stage 4
 record: 267	Group 1: 
 Time:
 02:00-04:30
@@ -24185,7 +24185,7 @@ Time:
 10:00-12:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Sunday, 30 August 2020	Stage 1
+Date: Monday, 26 October 2020	Stage 1
 record: 268	Group 1: 
 Time:
  
@@ -24262,7 +24262,7 @@ record: 268	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Sunday, 30 August 2020	Stage 2
+Date: Monday, 26 October 2020	Stage 2
 record: 269	Group 1: 
 Time:
 16:00-18:30 
@@ -24346,7 +24346,7 @@ record: 269	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Sunday, 30 August 2020	Stage 3
+Date: Monday, 26 October 2020	Stage 3
 record: 270	Group 1: 
 Time:
 06:00-08:30
@@ -24440,7 +24440,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Sunday, 30 August 2020	Stage 4
+Date: Monday, 26 October 2020	Stage 4
 record: 271	Group 1: 
 Time:
 06:00-08:30
@@ -24546,7 +24546,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Monday, 31 August 2020	Stage 1
+Date: Tuesday, 27 October 2020	Stage 1
 record: 272	Group 1: 
 Time:
 02:00-04:30 
@@ -24623,7 +24623,7 @@ record: 272	Group 19:
 Time:
 00:00-02:30 
 ------------------------------------------------------------
-Date: Monday, 31 August 2020	Stage 2
+Date: Tuesday, 27 October 2020	Stage 2
 record: 273	Group 1: 
 Time:
 02:00-04:30 
@@ -24707,7 +24707,7 @@ record: 273	Group 19:
 Time:
 00:00-02:30 
 ------------------------------------------------------------
-Date: Monday, 31 August 2020	Stage 3
+Date: Tuesday, 27 October 2020	Stage 3
 record: 274	Group 1: 
 Time:
 02:00-04:30
@@ -24801,7 +24801,7 @@ Time:
 00:00-02:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Monday, 31 August 2020	Stage 4
+Date: Tuesday, 27 October 2020	Stage 4
 record: 275	Group 1: 
 Time:
 02:00-04:30
@@ -24907,7 +24907,7 @@ Time:
 18:00-20:30
 08:00-10:30 
 ------------------------------------------------------------
-Date: Tuesday, 1 September 2020	Stage 1
+Date: Wednesday, 28 October 2020	Stage 1
 record: 276	Group 1: 
 Time:
 16:00-18:30 
@@ -24984,7 +24984,7 @@ record: 276	Group 19:
 Time:
 14:00-16:30 
 ------------------------------------------------------------
-Date: Tuesday, 1 September 2020	Stage 2
+Date: Wednesday, 28 October 2020	Stage 2
 record: 277	Group 1: 
 Time:
 06:00-08:30
@@ -25068,7 +25068,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Tuesday, 1 September 2020	Stage 3
+Date: Wednesday, 28 October 2020	Stage 3
 record: 278	Group 1: 
 Time:
 06:00-08:30
@@ -25162,7 +25162,7 @@ Time:
 04:00-06:30
 14:00-16:30 
 ------------------------------------------------------------
-Date: Tuesday, 1 September 2020	Stage 4
+Date: Wednesday, 28 October 2020	Stage 4
 record: 279	Group 1: 
 Time:
 06:00-08:30
@@ -25268,7 +25268,7 @@ Time:
 14:00-16:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Wednesday, 2 September 2020	Stage 1
+Date: Thursday, 29 October 2020	Stage 1
 record: 280	Group 1: 
 Time:
  
@@ -25345,7 +25345,7 @@ record: 280	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Wednesday, 2 September 2020	Stage 2
+Date: Thursday, 29 October 2020	Stage 2
 record: 281	Group 1: 
 Time:
 20:00-22:30 
@@ -25429,7 +25429,7 @@ record: 281	Group 19:
 Time:
 18:00-20:30 
 ------------------------------------------------------------
-Date: Wednesday, 2 September 2020	Stage 3
+Date: Thursday, 29 October 2020	Stage 3
 record: 282	Group 1: 
 Time:
 10:00-12:30
@@ -25523,7 +25523,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Wednesday, 2 September 2020	Stage 4
+Date: Thursday, 29 October 2020	Stage 4
 record: 283	Group 1: 
 Time:
 10:00-12:30
@@ -25629,7 +25629,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Thursday, 3 September 2020	Stage 1
+Date: Friday, 30 October 2020	Stage 1
 record: 284	Group 1: 
 Time:
 06:00-08:30 
@@ -25706,7 +25706,7 @@ record: 284	Group 19:
 Time:
 04:00-06:30 
 ------------------------------------------------------------
-Date: Thursday, 3 September 2020	Stage 2
+Date: Friday, 30 October 2020	Stage 2
 record: 285	Group 1: 
 Time:
 06:00-08:30 
@@ -25790,7 +25790,7 @@ record: 285	Group 19:
 Time:
 04:00-06:30 
 ------------------------------------------------------------
-Date: Thursday, 3 September 2020	Stage 3
+Date: Friday, 30 October 2020	Stage 3
 record: 286	Group 1: 
 Time:
 06:00-08:30 
@@ -25884,7 +25884,7 @@ Time:
 04:00-06:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Thursday, 3 September 2020	Stage 4
+Date: Friday, 30 October 2020	Stage 4
 record: 287	Group 1: 
 Time:
 06:00-08:30
@@ -25990,7 +25990,7 @@ Time:
 22:00-00:30
 12:00-14:30 
 ------------------------------------------------------------
-Date: Friday, 4 September 2020	Stage 1
+Date: Saturday, 31 October 2020	Stage 1
 record: 288	Group 1: 
 Time:
 20:00-22:30 
@@ -26067,7 +26067,7 @@ record: 288	Group 19:
 Time:
 18:00-20:30 
 ------------------------------------------------------------
-Date: Friday, 4 September 2020	Stage 2
+Date: Saturday, 31 October 2020	Stage 2
 record: 289	Group 1: 
 Time:
 10:00-12:30
@@ -26151,7 +26151,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Friday, 4 September 2020	Stage 3
+Date: Saturday, 31 October 2020	Stage 3
 record: 290	Group 1: 
 Time:
 00:00-02:30
@@ -26245,7 +26245,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Friday, 4 September 2020	Stage 4
+Date: Saturday, 31 October 2020	Stage 4
 record: 291	Group 1: 
 Time:
 00:00-02:30
@@ -26351,7 +26351,7 @@ Time:
 08:00-10:30
 18:00-20:30 
 ------------------------------------------------------------
-Date: Saturday, 5 September 2020	Stage 1
+Date: Sunday, 1 November 2020	Stage 1
 record: 292	Group 1: 
 Time:
  
@@ -26428,7 +26428,7 @@ record: 292	Group 19:
 Time:
  
 ------------------------------------------------------------
-Date: Saturday, 5 September 2020	Stage 2
+Date: Sunday, 1 November 2020	Stage 2
 record: 293	Group 1: 
 Time:
  
@@ -26512,7 +26512,7 @@ record: 293	Group 19:
 Time:
 22:00-00:30 
 ------------------------------------------------------------
-Date: Saturday, 5 September 2020	Stage 3
+Date: Sunday, 1 November 2020	Stage 3
 record: 294	Group 1: 
 Time:
 14:00-16:30 
@@ -26606,7 +26606,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Saturday, 5 September 2020	Stage 4
+Date: Sunday, 1 November 2020	Stage 4
 record: 295	Group 1: 
 Time:
 14:00-16:30
@@ -26712,7 +26712,7 @@ Time:
 22:00-00:30
 02:00-04:30 
 ------------------------------------------------------------
-Date: Sunday, 6 September 2020	Stage 1
+Date: Monday, 2 November 2020	Stage 1
 record: 296	Group 1: 
 Time:
 10:00-12:30 
@@ -26789,7 +26789,7 @@ record: 296	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Sunday, 6 September 2020	Stage 2
+Date: Monday, 2 November 2020	Stage 2
 record: 297	Group 1: 
 Time:
 00:00-02:30
@@ -26873,7 +26873,7 @@ record: 297	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Sunday, 6 September 2020	Stage 3
+Date: Monday, 2 November 2020	Stage 3
 record: 298	Group 1: 
 Time:
 00:00-02:30
@@ -26967,7 +26967,7 @@ record: 298	Group 19:
 Time:
 08:00-10:30 
 ------------------------------------------------------------
-Date: Sunday, 6 September 2020	Stage 4
+Date: Monday, 2 November 2020	Stage 4
 record: 299	Group 1: 
 Time:
 00:00-02:30
@@ -27073,7 +27073,7 @@ Time:
 08:00-10:30
 16:00-18:30 
 ------------------------------------------------------------
-Date: Monday, 7 September 2020	Stage 1
+Date: Tuesday, 3 November 2020	Stage 1
 record: 300	Group 1: 
 Time:
  
@@ -27150,7 +27150,7 @@ record: 300	Group 19:
 Time:
 22:00-00:30 
 ------------------------------------------------------------
-Date: Monday, 7 September 2020	Stage 2
+Date: Tuesday, 3 November 2020	Stage 2
 record: 301	Group 1: 
 Time:
 14:00-16:30 
@@ -27234,7 +27234,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Monday, 7 September 2020	Stage 3
+Date: Tuesday, 3 November 2020	Stage 3
 record: 302	Group 1: 
 Time:
 04:00-06:30
@@ -27328,7 +27328,7 @@ Time:
 12:00-14:30
 22:00-00:30 
 ------------------------------------------------------------
-Date: Monday, 7 September 2020	Stage 4
+Date: Tuesday, 3 November 2020	Stage 4
 record: 303	Group 1: 
 Time:
 04:00-06:30
