@@ -10,3 +10,4 @@
 <li>   Paste the selection to A1</li>
 <li>   File Save As groups.csv (Type groups as the filename and select csv comma delimited type from Save as type drop down below) followed by yes</li>
 <li>  Copy groups.csv to the data subdirectory of the loadshedding go project directory</li>
+<li>  Modify the start date in var day</li>
